@@ -1,9 +1,4 @@
 # Analysis of the Electric Vehicle Market Landscape
-NAME- SAURAV KASHYAP  
-COMPANY- Main Flow Services and Technologies  
-Intern ID - 13838  
-DOMAIN- Data Analysis  
-DURATION-25 July 2024 to 25 September 2024.
 
 # Project- Analysis of the Electric Vehicle Market Landscape
 Electric Vehicle Market Landscape analysis is a crucial aspect of market research that determines the potential sales volume within a given market. It helps businesses understand the magnitude of demand, assess market saturation levels, and identify growth opportunities. So, if you want to learn how to perform a market size analysis of any product, this article is for you. In this article, I’ll take you through the task of Electric Vehicles market size analysis using Python.  
